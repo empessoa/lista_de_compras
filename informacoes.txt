@@ -1,0 +1,6 @@
+NÃO EXISTE VERSAO DE BRANCH ANTERIOR A ESSA "VERSIONCODE4".
+16/01/2017 
+Realizado ajuste entre a Act_Calcular_Produtos e o Frag_Calculo, para que ambos tenham a mesma aparencia.
+versionName "1.4" Ajuste de layouts. Versao não publicada na googleplay.
+git commit -m "Versao de atualização de layouts."
+branch versionCode4

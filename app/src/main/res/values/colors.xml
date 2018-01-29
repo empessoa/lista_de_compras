@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#9e9e9e</color>
+    <color name="colorPrimary">#bdbdbd</color>
+    <color name="backgroundLayoutMain">#fafafa</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorSliding">#616161</color>
+    <color name="cor_texto">#000000</color>
+    <color name="cor_texto_produto">#D50000</color>
+    <color name="backgroundListCompras">#eeeeee</color>
+    <color name="cor_botao">#9e9e9e</color>
+</resources>
